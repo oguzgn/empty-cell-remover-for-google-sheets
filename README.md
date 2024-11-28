@@ -18,10 +18,7 @@ Automate your Google Sheets cleanup process by removing **unnecessary empty rows
 
 1. Open your Google Spreadsheet.
 2. Navigate to **Extensions > Apps Script**.
-3. Paste the following code into the script editor:
-   ```javascript
-   // Paste the script here (see script above)
-  ```
+3. Paste the  **deleteEmptyRowsAndColumnsAcrossSheets.gs** code into the script editor:
 4. Save the project with a name (e.g., Cleanup Script).
 5. Refresh your Google Spreadsheet to enable the script.
 
